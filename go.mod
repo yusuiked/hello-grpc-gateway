@@ -1,4 +1,4 @@
-module gitlab.com/yukung/hello-grpc-gateway
+module github.com/yusuiked/hello-grpc-gateway
 
 go 1.18
 
